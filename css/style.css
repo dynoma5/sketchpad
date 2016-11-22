@@ -5,3 +5,10 @@
 	height:500px;
 	
 }
+.box {
+	display: inline-block;
+	position:absolute;
+	width: 10px;
+	height:10px;
+	
+}
